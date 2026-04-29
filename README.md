@@ -10,6 +10,7 @@ A technical playground for testing modern Shopify architecture and checkout exte
 
 <details>
   <summary><b>🛠️ View Technical Implementation Details</b></summary>
+  
 #### 🛠️ Technical Implementation:
 * **Shopify Functions (Volume Discounts):** Engineered a custom **Product Discount Function**.
 * **Modern Tooling:** Built and deployed using **Shopify CLI 3.0**, focusing on the transition from legacy Shopify Scripts to server-side, WASM-executed logic.
