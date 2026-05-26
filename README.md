@@ -2,14 +2,15 @@
 ### 🚀 Shopify Functions Demo
 A technical playground for testing modern Shopify architecture and checkout extensibility
 
+<details>
+  
 **Shop:** [iurii-developer.myshopify.com](https://iurii-developer.myshopify.com/)
 
 **Password to enter:** **portfolio**
 
 <img width="396" height="225" alt="Screenshot 2026-04-28 at 4 37 27 PM" src="https://github.com/user-attachments/assets/2ffb0d48-4f89-4ed5-832f-a2e2f2069db2" />
 
-<details>
-  <summary><b>🛠️ View Technical Implementation Details</b></summary>
+  <summary><b>🛠️ Technical Implementation Details</b></summary>
   
 #### 🛠️ Technical Implementation:
 * **Shopify Functions (Volume Discounts):** Engineered a custom **Product Discount Function**.
